@@ -201,8 +201,9 @@ function translateTo(langCode) {
         document.querySelector('.custom-language-select').style.display = 'none';
       }, 300);
       
-      // 隐藏Google翻译横幅
+      // 隐藏Google翻译横幅，但不要过度处理
       hideGoogleTranslateBanner();
+      setTimeout(hideGoogleTranslateBanner, 1000);
     }
   });
 }
@@ -210,7 +211,7 @@ function translateTo(langCode) {
 // 隐藏Google翻译横幅
 function hideGoogleTranslateBanner() {
   // 尝试多种方法隐藏横幅
-  var bannerFrames = document.querySelectorAll('.goog-te-banner-frame, .skiptranslate, iframe[id=":1.container"]');
+  var bannerFrames = document.querySelectorAll('.goog-te-banner-frame, .skiptranslate iframe');
   bannerFrames.forEach(function(frame) {
     frame.style.display = 'none';
     frame.style.visibility = 'hidden';
@@ -226,18 +227,54 @@ function hideGoogleTranslateBanner() {
     style.id = 'google-translate-style';
     style.textContent = `
       .goog-te-banner-frame, 
-      .skiptranslate, 
-      iframe[id=":1.container"] {
+      .skiptranslate iframe {
         display: none !important;
         visibility: hidden !important;
       }
+      
+      /* 隐藏翻译控件但保留功能 */
+      .skiptranslate {
+        opacity: 0.01 !important;
+        height: 0 !important;
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        z-index: -9999 !important;
+        overflow: hidden !important;
+      }
+      
       body {
         top: 0 !important;
         position: static !important;
       }
+      
+      /* 只隐藏加载旋转图标 */
+      .VIpgJd-ZVi9od-aZ2wEe-wOHMyf,
+      .VIpgJd-ZVi9od-aZ2wEe-OiiCO {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
     `;
     document.head.appendChild(style);
   }
+  
+  // 只处理加载图标，不移除其他Google翻译元素
+  setTimeout(function() {
+    const loadingIcons = document.querySelectorAll(
+      '.VIpgJd-ZVi9od-aZ2wEe-wOHMyf, .VIpgJd-ZVi9od-aZ2wEe-OiiCO'
+    );
+    
+    loadingIcons.forEach(function(icon) {
+      if(icon) {
+        icon.style.display = 'none';
+        icon.style.visibility = 'hidden';
+        icon.style.opacity = '0';
+        icon.style.pointerEvents = 'none';
+      }
+    });
+  }, 1000);
 }
 
 // 在页面加载完成后执行一次
