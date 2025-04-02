@@ -1,0 +1,5 @@
+<div class="gallery-group-main">
+{% galleryGroup 'Name' 'DL300U-2WD-1.6 有棚' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车带货舱/DL300U-2WD-1.6 有棚/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车带货舱/DL300U-2WD-1.6 有棚/_DSC4233-已增强-降噪.jpg %}
+{% galleryGroup 'Name' 'DL300U-4WD-1.6 无棚' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车带货舱/DL300U-4WD-1.6 无棚/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车带货舱/DL300U-4WD-1.6 无棚/_DSC3952-已增强-降噪.jpg %}
+{% galleryGroup 'Name' 'DL50DU-2WD-1.6 有棚' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车带货舱/DL50DU-2WD-1.6 有棚/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车带货舱/DL50DU-2WD-1.6 有棚/_DSC4423-已增强-降噪.jpg %}
+</div>

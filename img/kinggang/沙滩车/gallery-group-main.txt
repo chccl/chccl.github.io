@@ -1,0 +1,5 @@
+<div class="gallery-group-main">
+{% galleryGroup 'Name' 'DL40DAU-A-Power' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车/DL40DAU-A-Power/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车/DL40DAU-A-Power/_DSC4791-已增强-降噪.jpg %}
+{% galleryGroup 'Name' '汽油200CC' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车/汽油200CC/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车/汽油200CC/_DSC9440.jpg %}
+{% galleryGroup 'Name' '汽油250CC' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车/汽油250CC/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车/汽油250CC/_DSC9149.jpg %}
+</div>

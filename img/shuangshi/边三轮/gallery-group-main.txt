@@ -1,0 +1,7 @@
+<div class="gallery-group-main">
+{% galleryGroup 'Name' '仪表细节' 'https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/仪表细节/' https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/仪表细节/11.JPG %}
+{% galleryGroup 'Name' '侧方位细节' 'https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/侧方位细节/' https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/侧方位细节/1.JPG %}
+{% galleryGroup 'Name' '刹车细节' 'https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/刹车细节/' https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/刹车细节/10.JPG %}
+{% galleryGroup 'Name' '发动机细节' 'https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/发动机细节/' https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/发动机细节/5.JPG %}
+{% galleryGroup 'Name' '右侧细节' 'https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/右侧细节/' https://raw.githubusercontent.com/chccl/shuangshi/main/边三轮2/右侧细节/14.JPG %}
+</div>

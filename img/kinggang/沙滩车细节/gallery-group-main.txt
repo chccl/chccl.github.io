@@ -1,0 +1,9 @@
+<div class="gallery-group-main">
+{% galleryGroup 'Name' '沙滩车-带钭-其他细节' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-其他细节/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-其他细节/_DSC2778-已增强-降噪.jpg %}
+{% galleryGroup 'Name' '沙滩车-带钭-减震' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-减震/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-减震/_DSC2738-已增强-降噪.jpg %}
+{% galleryGroup 'Name' '沙滩车-带钭-支撑臂' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-支撑臂/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-支撑臂/_DSC2942.jpg %}
+{% galleryGroup 'Name' '沙滩车-带钭-牵引器' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-牵引器/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-牵引器/_DSC2694-已增强-降噪.jpg %}
+{% galleryGroup 'Name' '沙滩车-带钭-车架' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-车架/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-车架/_DSC3020.jpg %}
+{% galleryGroup 'Name' '沙滩车-带钭-轮胎' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-轮胎/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车-带钭-轮胎/_DSC2645-已增强-降噪.jpg %}
+{% galleryGroup 'Name' '沙滩车细节' 'https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车细节/' https://raw.githubusercontent.com/chccl/kinggang/main/沙滩车细节/沙滩车细节/_DSC3760-已增强-降噪.jpg %}
+</div>
