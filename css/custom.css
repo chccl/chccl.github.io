@@ -2,9 +2,9 @@
 #footer {
     background: transparent !important;
   }
-  #page-header {
+  /* #page-header {
     background: transparent !important;
-  }
+  }*/
   
   /* 白天模式遮罩透明 */
   #footer::before {
