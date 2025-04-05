@@ -15,16 +15,16 @@ function initContactModal() {
         </div>
         <div class="contact-modal-body">
           <div class="contact-item">
+            <img src="/img/contact/tg.jpg" alt="Telegram二维码" class="contact-qrcode" />
+            <a href="https://t.me/your_username" class="contact-name">Telegram</a>
+          </div>
+          <div class="contact-item">
             <img src="/img/contact/qq.jpg" alt="QQ二维码" class="contact-qrcode" />
-            <a href="tencent://message/?uin=123456789" class="contact-name">QQ联系</a>
+            <a href="tencent://message/?uin=123456789" class="contact-name">QQ</a>
           </div>
           <div class="contact-item">
             <img src="/img/contact/wechat.jpg" alt="微信二维码" class="contact-qrcode" />
-            <a href="weixin://" class="contact-name">微信联系</a>
-          </div>
-          <div class="contact-item">
-            <img src="/img/contact/tg.jpg" alt="Telegram二维码" class="contact-qrcode" />
-            <a href="https://t.me/your_username" class="contact-name">TG联系</a>
+            <a href="weixin://" class="contact-name">WeChat</a>
           </div>
           <!-- 可以在这里添加更多的联系方式，每行显示3个，不足3个时左对齐 -->
           <!-- 
