@@ -1,0 +1,6 @@
+<div class="gallery-group-main">
+{% galleryGroup 'Name' '主图' 'https://raw.githubusercontent.com/chccl/aobo1/main/x9/主图/' https://raw.githubusercontent.com/chccl/aobo1/main/x9/主图/IMG_3619.JPG %}
+{% galleryGroup 'Name' '仪表' 'https://raw.githubusercontent.com/chccl/aobo1/main/x9/仪表/' https://raw.githubusercontent.com/chccl/aobo1/main/x9/仪表/IMG_3631.JPG %}
+{% galleryGroup 'Name' '其他配置' 'https://raw.githubusercontent.com/chccl/aobo1/main/x9/其他配置/' https://raw.githubusercontent.com/chccl/aobo1/main/x9/其他配置/IMG_3630.JPG %}
+{% galleryGroup 'Name' '轮胎刹车' 'https://raw.githubusercontent.com/chccl/aobo1/main/x9/轮胎刹车/' https://raw.githubusercontent.com/chccl/aobo1/main/x9/轮胎刹车/IMG_3627.JPG %}
+</div>

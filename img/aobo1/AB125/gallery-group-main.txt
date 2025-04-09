@@ -1,0 +1,7 @@
+<div class="gallery-group-main">
+{% galleryGroup 'Name' '主图' 'https://raw.githubusercontent.com/chccl/aobo1/main/AB125/主图/' https://raw.githubusercontent.com/chccl/aobo1/main/AB125/主图/IMG_3545.JPG %}
+{% galleryGroup 'Name' '仪表大灯' 'https://raw.githubusercontent.com/chccl/aobo1/main/AB125/仪表大灯/' https://raw.githubusercontent.com/chccl/aobo1/main/AB125/仪表大灯/IMG_3559.JPG %}
+{% galleryGroup 'Name' '模特儿' 'https://raw.githubusercontent.com/chccl/aobo1/main/AB125/模特儿/' https://raw.githubusercontent.com/chccl/aobo1/main/AB125/模特儿/IMG_3536.JPG %}
+{% galleryGroup 'Name' '车身' 'https://raw.githubusercontent.com/chccl/aobo1/main/AB125/车身/' https://raw.githubusercontent.com/chccl/aobo1/main/AB125/车身/IMG_3563.JPG %}
+{% galleryGroup 'Name' '轮胎' 'https://raw.githubusercontent.com/chccl/aobo1/main/AB125/轮胎/' https://raw.githubusercontent.com/chccl/aobo1/main/AB125/轮胎/IMG_3560.JPG %}
+</div>

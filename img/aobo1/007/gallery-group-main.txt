@@ -1,0 +1,7 @@
+<div class="gallery-group-main">
+{% galleryGroup 'Name' '主图' 'https://raw.githubusercontent.com/chccl/aobo1/main/007/主图/' https://raw.githubusercontent.com/chccl/aobo1/main/007/主图/IMG_3589.JPG %}
+{% galleryGroup 'Name' '仪表' 'https://raw.githubusercontent.com/chccl/aobo1/main/007/仪表/' https://raw.githubusercontent.com/chccl/aobo1/main/007/仪表/IMG_3599.JPG %}
+{% galleryGroup 'Name' '模特儿' 'https://raw.githubusercontent.com/chccl/aobo1/main/007/模特儿/' https://raw.githubusercontent.com/chccl/aobo1/main/007/模特儿/IMG_3610.JPG %}
+{% galleryGroup 'Name' '细节' 'https://raw.githubusercontent.com/chccl/aobo1/main/007/细节/' https://raw.githubusercontent.com/chccl/aobo1/main/007/细节/IMG_3592.JPG %}
+{% galleryGroup 'Name' '轮胎' 'https://raw.githubusercontent.com/chccl/aobo1/main/007/轮胎/' https://raw.githubusercontent.com/chccl/aobo1/main/007/轮胎/IMG_3596.JPG %}
+</div>
