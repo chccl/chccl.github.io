@@ -1,0 +1,5 @@
+<div class="gallery-group-main">
+{% galleryGroup '主图' '主图' '/img/aobo1/亚洲豹4代/主图/' "https://raw.githubusercontent.com/chccl/aobo1/main/亚洲豹4代/主图/960.jpg" %}
+{% galleryGroup '车头' '车头' '/img/aobo1/亚洲豹4代/车头/' "https://raw.githubusercontent.com/chccl/aobo1/main/亚洲豹4代/车头/DSC03764.JPG" %}
+{% galleryGroup '车身' '车身' '/img/aobo1/亚洲豹4代/车身/' "https://raw.githubusercontent.com/chccl/aobo1/main/亚洲豹4代/车身/DSC03763.JPG" %}
+</div>

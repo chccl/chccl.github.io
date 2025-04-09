@@ -1,0 +1,5 @@
+<div class="gallery-group-main">
+{% galleryGroup '主图' '主图' '/img/aobo1/H20电动两轮/主图/' "https://raw.githubusercontent.com/chccl/aobo1/main/H20电动两轮/主图/960.png" %}
+{% galleryGroup '其他细节' '其他细节' '/img/aobo1/H20电动两轮/其他细节/' "https://raw.githubusercontent.com/chccl/aobo1/main/H20电动两轮/其他细节/DSC07584.JPG" %}
+{% galleryGroup '车头' '车头' '/img/aobo1/H20电动两轮/车头/' "https://raw.githubusercontent.com/chccl/aobo1/main/H20电动两轮/车头/DSC07586.JPG" %}
+</div>
