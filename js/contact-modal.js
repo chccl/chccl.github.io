@@ -16,11 +16,11 @@ function initContactModal() {
         <div class="contact-modal-body">
           <div class="contact-item">
             <img src="/img/contact/tg.jpg" alt="Telegram二维码" class="contact-qrcode" />
-            <a href="https://t.me/your_username" class="contact-name">Telegram</a>
+            <a href="https://t.me/xcmsccl" class="contact-name">Telegram</a>
           </div>
           <div class="contact-item">
             <img src="/img/contact/qq.jpg" alt="QQ二维码" class="contact-qrcode" />
-            <a href="tencent://message/?uin=123456789" class="contact-name">QQ</a>
+            <a href="https://qm.qq.com/q/1nF94jp3Go" class="contact-name">QQ</a>
           </div>
           <div class="contact-item">
             <img src="/img/contact/wechat.jpg" alt="微信二维码" class="contact-qrcode" />
@@ -35,10 +35,10 @@ function initContactModal() {
           -->
           <div class="contact-phone">
             <a href="tel:13883180899"><i class="fas fa-phone"></i>138-8318-0899 (销售)</a>
-            <a href="tel:13883180899"><i class="fas fa-phone"></i>138-8318-0899 (技术)</a>
-            <a href="tel:13883180899"><i class="fas fa-phone"></i>138-8318-0899 (客服)</a>
-            <a href="tel:13883180899"><i class="fas fa-phone"></i>138-8318-0899 (售后)</a>
-            <a href="tel:13883180899"><i class="fas fa-phone"></i>138-8318-0899 (投诉)</a>
+            <a href="tel:13140222240"><i class="fas fa-phone"></i>131-4022-2240 (销售)</a>
+            <a href="tel:13140222240"><i class="fas fa-phone"></i>131-4022-2240 (客服)</a>
+            <a href="tel:13140222240"><i class="fas fa-phone"></i>131-4022-2240 (售后)</a>
+            <a href="tel:13140222240"><i class="fas fa-phone"></i>131-4022-2240 (建议)</a>
           </div>
         </div>
       </div>
